@@ -2,8 +2,7 @@
 
 ## Contexto
 
-Aplicativo mobile com finalidade de encontrar de maneira automática a partir da localização próxima pessoas que estejam oferecendo ou buscando caronas para locais determinados pelos próprios usuários de forma que assegure que todos os usuários com acesso ao aplicativo seja estudante ativo em alguma universidade, podendo filtrar os usuários para juntar apenas estudantes de mesma universidade.
-O aplicativo tem como funcionalidade sugerir possíveis pessoas que estejam na rota para o local desejado e intermediar a comunicação entre elas.
+Serviço de gestão de caronas para usuários acadêmicos com finalidade de reduzir o tempo do transporte de/para a universidade. O serviço oferece acesso apenas para estudantes devidamente matriculados e ativos nas instituições de ensino cadastradas. De forma que o endereço, localização, telefone nem outro detalhe seja compartilhado.
 
 ## Alunos
 
