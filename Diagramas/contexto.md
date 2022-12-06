@@ -1,1 +1,1 @@
-![alt text](contexto.jpeg)
+![alt text](diagramas/contexto.jpeg)
