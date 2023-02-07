@@ -22,3 +22,7 @@ Diagrama de componente do servidor API
 Diagrama de componente da aplicação mobile
 
 ![Diagrama de componente da aplicação mobile](diagramas/componente_mobile.jpeg)
+
+## Diagrama de classe
+
+![Diagrama de componente da aplicação mobile](diagramas/diagrama_de_classe.jpg)
