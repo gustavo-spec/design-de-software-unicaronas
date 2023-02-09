@@ -1,10 +1,6 @@
 # Unicaronas
 
-## Objetivo
-
-Disponibilização de um aplicativo mobile para caronas no âmbito acadêmico.
-
-Dado o [contexto](Documentation/context.md), foi desenvolvido um [design](Documentation/design.md) afim de alcançar o objetivo.
+O objetivo é disponibilizar um aplicativo mobile para caronas no âmbito acadêmico. Dado o [contexto](Documentation/context.md), foi desenvolvido um [design](Documentation/design.md) afim de alcançar o objetivo.
 
 ## Participantes
 
