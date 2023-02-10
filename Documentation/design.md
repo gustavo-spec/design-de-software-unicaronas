@@ -1,6 +1,6 @@
 # Design proposto
 
-O modelo usado de base é o C4, disponível em: [C4Model](https://c4model.com/). Foram produzidos os artefatos:
+O modelo usado de base para construção do design é o C4, disponível em: [C4Model](https://c4model.com/). Foram produzidos os artefatos:
 
 - Diagrama de [contexto](Diagrams/context.md), descrevendo as partes externas do Unicaronas;
 - Partes do Unicaronas descrevendo os [containers](Diagrams/container.md) e suas responsabilidades;
